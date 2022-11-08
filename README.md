@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mxkitaura
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning PLC-Ladder-Plograming, Machine-Lerning, and Simulations.
-- 💞️ I’m looking to collaborate on Auto-plograming.
+- 💞️ I’m looking to collaborate on Auto-programing.
 - 📫 How to reach me ... Please wait for few month.
 
 <!---
